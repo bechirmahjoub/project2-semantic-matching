@@ -1,0 +1,15 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "ids": [
+    "HP-200",
+    "PS-10",
+    "TC-IR",
+    "BR-6205",
+    "CB-3M",
+    "PLC-X1",
+    "FM-100",
+    "VA-24",
+    "PSU-12",
+    "LDS-50"
+  ]
+}
